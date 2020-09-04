@@ -1,0 +1,13 @@
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.exe
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.deps.json
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.runtimeconfig.json
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.runtimeconfig.dev.json
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.dll
+C:\Users\Jonrr\workspace\Heist2\bin\Debug\netcoreapp3.1\Heist2.pdb
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.csprojAssemblyReference.cache
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.AssemblyInfoInputs.cache
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.AssemblyInfo.cs
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.csproj.CoreCompileInputs.cache
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.dll
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.pdb
+C:\Users\Jonrr\workspace\Heist2\obj\Debug\netcoreapp3.1\Heist2.genruntimeconfig.cache

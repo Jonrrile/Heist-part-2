@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Heist2
 {
@@ -10,7 +11,17 @@ namespace Heist2
             {
                 CashOnHand = 3
             };
-            Console.WriteLine("Hello World!");
+
+            LockSpecialist Jon = new LockSpecialist()
+            {
+                Name = "Jon",
+                SkillLevel = 7,
+                PercentageCut = 25
+
+            };
+            Jon.PerformSkill();
+
+            Console.WriteLine($"{Jon.Name} robbed the bank");
         }
     }
 }
